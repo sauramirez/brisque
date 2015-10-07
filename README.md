@@ -9,7 +9,7 @@ A disque job queue built for node.js
 
   - Latest release:
 
-        $ npm install kue
+        $ npm install brisque
 
 ## Creating Jobs
 
